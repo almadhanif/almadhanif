@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @almadhanif
-- 👀 I’m interested in Mobile Programming, Web Programming, Machine Learning & AI
+- 👀 I’m interested in Web Programming, Machine Learning & AI
 - 🌱 I’m currently learning Next.js and React.js
 - 💞️ I’m looking to collaborate on Fullstack Developer with Machine learning programmer
 - 📫 How to reach me? Send message on almadhanif17@gmail.com or visit my instagram at almadhanif
