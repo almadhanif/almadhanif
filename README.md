@@ -9,7 +9,7 @@
 ![IELTS C1](https://img.shields.io/badge/IELTS-C1-00FFA3?style=flat-square&logo=google-scholar&logo_color=white&labelColor=0d1117&color=00FFA3)
 ![Jakarta, ID](https://img.shields.io/badge/BASED_IN-JAKARTA%2C_ID-00FFA3?style=flat-square&logo=googlemaps&logo_color=white&labelColor=0d1117&color=00FFA3)
 
-<img src="https://github.com/almadhanif/almadhanif/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="github contribution snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=almadhanif&bg_color=0d1117&color=00ffa3&line=00ffa3&point=ffffff&area=true&hide_border=true" width="100%" alt="github contribution activity graph" />
 
 </div>
 
@@ -23,22 +23,22 @@ I build production-grade digital systems across product, platform, and infrastru
 
 ## Tech Stack
 
-<table>
+<table width="100%">
 	<tr>
-		<td><strong>Frontend</strong></td>
-		<td>
+		<td width="16%"><strong>Frontend</strong></td>
+		<td width="84%">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" alt="React" />
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="16" alt="Next.js" />
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="16" alt="SvelteKit" />
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16" alt="TypeScript" />
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="16" alt="Tailwind CSS" />
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="16" alt="Redux" />
-			<img src="https://cdn.simpleicons.org/zustand/ffffff" height="16" alt="Zustand" />
+			<img src="https://img.shields.io/badge/Zustand-0d1117?style=flat-square&logo=react&logo_color=white&labelColor=0d1117&color=0d1117" height="18" alt="Zustand" />
 		</td>
 	</tr>
 	<tr>
-		<td><strong>Backend</strong></td>
-		<td>
+		<td width="16%"><strong>Backend</strong></td>
+		<td width="84%">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="Node.js" />
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="16" alt="Express" />
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="16" alt="FastAPI" />
@@ -46,23 +46,23 @@ I build production-grade digital systems across product, platform, and infrastru
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="16" alt="Prisma" />
 			<img src="https://cdn.simpleicons.org/drizzle/ffffff" height="16" alt="Drizzle" />
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="16" alt="GraphQL" />
-			<img src="https://cdn.simpleicons.org/elysia/ffffff" height="16" alt="ElysiaJS" />
+			<img src="https://img.shields.io/badge/ElysiaJS-0d1117?style=flat-square&logo=bun&logo_color=white&labelColor=0d1117&color=0d1117" height="18" alt="ElysiaJS" />
 		</td>
 	</tr>
 	<tr>
-		<td><strong>AI / ML</strong></td>
-		<td>
-			<img src="https://cdn.simpleicons.org/openai/ffffff" height="16" alt="OpenAI GPT-5" />
+		<td width="16%"><strong>AI / ML</strong></td>
+		<td width="84%">
+			<img src="https://img.shields.io/badge/OpenAI_GPT--5-0d1117?style=flat-square&logo=openai&logo_color=white&labelColor=0d1117&color=0d1117" height="18" alt="OpenAI GPT-5" />
 			<img src="https://cdn.simpleicons.org/googlegemini/ffffff" height="16" alt="Gemini" />
 			<img src="https://cdn.simpleicons.org/ollama/ffffff" height="16" alt="Ollama" />
 			<img src="https://cdn.simpleicons.org/langchain/ffffff" height="16" alt="LangChain" />
-			<img src="https://cdn.simpleicons.org/tesseract/ffffff" height="16" alt="OCR" />
+			<img src="https://img.shields.io/badge/OCR-0d1117?style=flat-square&logo=googledocs&logo_color=white&labelColor=0d1117&color=0d1117" height="18" alt="OCR" />
 			<img src="https://cdn.simpleicons.org/serverless/ffffff" height="16" alt="SSE Streaming" />
 		</td>
 	</tr>
 	<tr>
-		<td><strong>DevOps &amp; Cloud</strong></td>
-		<td>
+		<td width="16%"><strong>DevOps &amp; Cloud</strong></td>
+		<td width="84%">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="16" alt="Docker" />
 			<img src="https://cdn.simpleicons.org/githubactions/ffffff" height="16" alt="GitHub Actions" />
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="16" alt="AWS S3" />
@@ -180,8 +180,8 @@ I build production-grade digital systems across product, platform, and infrastru
 ## GitHub Stats
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=almadhanif&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="32%" alt="GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almadhanif&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="32%" alt="Top languages" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almadhanif&theme=github_dark" width="32%" alt="GitHub stats" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=almadhanif&theme=github_dark" width="32%" alt="Top languages" />
 	<img src="https://streak-stats.demolab.com/?user=almadhanif&theme=github-dark-blue&hide_border=true&background=00000000" width="32%" alt="GitHub streak" />
 </div>
 
@@ -189,5 +189,5 @@ I build production-grade digital systems across product, platform, and infrastru
 
 <div align="center">
 	<hr />
-	almadhanif17@gmail.com · +62 895 1223 0607 · Available for remote engagements
+	almadhanif17@gmail.com · +62 882 9118 2012 · Available for remote engagements
 </div>
