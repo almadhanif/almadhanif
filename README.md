@@ -32,23 +32,12 @@
 
 ## 👤 About Me
 
-```typescript
-const firman = {
-  name: "Firman Almadhani Kurniawan",
-  role: ["Fullstack Developer", "DevOps Engineer", "AI Engineer"],
-  location: "Jakarta, Indonesia 🇮🇩",
-  timezone: "UTC+7 (WIB)",
-  english: "IELTS Band 7.0 — C1 Professional",
-  experience: "3.5+ years · production-grade systems",
-  stack: ["microservices", "AI/LLM integrations", "CI/CD automation"],
-  remote: true,
-  openTo: ["Australian Remote", "UK Remote", "International Contracts"],
-  awards: ["APICTA 2024 Finalist", "Silver Medal Thailand Inventors Day 2023"],
-  contact: "almadhanif17@gmail.com",
-};
-```
+I build production-grade digital systems across product, platform, and infrastructure layers. Recent work spans AI workflow automation, microservices, and high-volume document intelligence delivered for enterprise clients in Indonesia and the UK.
 
-> I build production-grade digital systems across product, platform, and infrastructure layers. Recent work spans AI workflow automation, microservices, and high-volume document intelligence — delivered for enterprise clients in Indonesia and the UK.
+- Fullstack Developer, DevOps Engineer, and AI Engineer based in Jakarta (UTC+7)
+- 3.5+ years shipping production systems with strong CI/CD and cloud delivery practices
+- Open to international remote collaborations, especially UK and APAC teams
+- APICTA 2024 Finalist and Silver Medal recipient at Thailand Inventors Day 2023
 
 <br/>
 
