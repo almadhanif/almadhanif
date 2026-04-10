@@ -390,53 +390,12 @@ Professional Working Proficiency
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Map
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almadhanif/almadhanif/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almadhanif/almadhanif/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/almadhanif/almadhanif/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
+  <img src="https://ghchart.rshah.org/00ffa3/almadhanif" width="95%" alt="GitHub contribution heatmap" />
 
 </div>
-
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║  SNAKE SETUP — create .github/workflows/snake.yml           ║
-║                                                              ║
-║  name: Snake                                                 ║
-║  on:                                                         ║
-║    schedule: [{cron: "0 12 * * *"}]                         ║
-║    workflow_dispatch:                                        ║
-║  jobs:                                                       ║
-║    generate:                                                 ║
-║      runs-on: ubuntu-latest                                  ║
-║      steps:                                                  ║
-║        - uses: Platane/snk@v3                               ║
-║          with:                                               ║
-║            github_user_name: almadhanif                     ║
-║            outputs: |                                        ║
-║              dist/github-contribution-grid-snake.svg         ║
-║              dist/github-contribution-grid-snake-dark.svg?palette=github-dark ║
-║        - uses: crazy-max/ghaction-github-pages@v3            ║
-║          with:                                               ║
-║            target_branch: output                             ║
-║            build_dir: dist                                   ║
-║          env:                                                ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         ║
-╚══════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════╗
-║  PRIVATE REPO STATS — to show private contributions:        ║
-║  1. Fork github.com/anuraghazra/github-readme-stats         ║
-║  2. Deploy fork to Vercel                                    ║
-║  3. Add env var: PAT_1 = GitHub PAT (repo + user scopes)   ║
-║  4. Replace vercel.app domain in Stats image URLs above     ║
-║     Also add &count_private=true to the URL params          ║
-╚══════════════════════════════════════════════════════════════╝
--->
 
 <br/>
 
