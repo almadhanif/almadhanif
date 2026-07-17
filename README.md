@@ -5,6 +5,8 @@
   <img src="https://raw.githubusercontent.com/almadhanif/almadhanif/main/assets/banner-grid_2.svg" width="100%"/>
 </picture>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&multiline=true&width=650&height=55&lines=Building+intelligent+systems+for+the+web;3.5+years+%C2%B7+5+companies+%C2%B7+3+continents)](https://git.io/typing-svg)
 
 <br/>
