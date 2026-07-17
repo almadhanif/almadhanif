@@ -202,7 +202,7 @@ High-traffic marketing platform with structured metadata, AWS S3 media storage, 
              │  SvelteKit · ElysiaJS · Bun · OpenAI GPT-5 · Azure Blob
              │  Delivered ~45–50% of total codebase for cert management platform
              │
-  2024–2025  ●  Fortech Indotama — Fullstack Developer              🇮🇩 Jakarta
+  2024–2025  ●  Fortech Indotama — Technical Lead              🇮🇩 Jakarta
              │  Next.js · FastAPI · Express · Docker · GitHub Actions · MinIO
              │  Built SuperApp consolidating 6 tools; 75% faster deploys
              │
