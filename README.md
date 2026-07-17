@@ -1,10 +1,45 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                    FIRMAN ALMADHANI KURNIAWAN — README                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f1a"/>
+      <stop offset="100%" stop-color="#141b2e"/>
+    </linearGradient>
+    <radialGradient id="glow3" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#1c2740" stroke-width="1"/>
+    </pattern>
+  </defs>
 
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Firman%20Almadhani&fontSize=46&fontAlignY=38&desc=Fullstack%20%C2%B7%20DevOps%20%C2%B7%20AI%20Engineer&descAlignY=58&fontColor=e2e8f0&descSize=18&animation=fadeIn" width="100%"/>
-</picture>
+  <rect width="1200" height="260" fill="url(#bg3)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+  <rect width="1200" height="260" fill="url(#glow3)"/>
+
+  <g stroke="#00d9ff" stroke-width="2" opacity="0.85">
+    <path d="M60 40 H120 V70" fill="none"/>
+    <path d="M1140 40 H1080 V70" fill="none"/>
+    <path d="M60 220 H120 V190" fill="none"/>
+    <path d="M1140 220 H1080 V190" fill="none"/>
+  </g>
+
+<text x="600" y="100" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#00d9ff" letter-spacing="6">SYSTEM PROFILE // ACTIVE</text>
+
+<text x="600" y="150" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#f1f5f9" letter-spacing="1">Firman Almadhani Kurniawan</text>
+
+  <line x1="440" y1="168" x2="760" y2="168" stroke="#00d9ff" stroke-width="1" opacity="0.7"/>
+
+<text x="600" y="196" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="16" fill="#94a3b8" letter-spacing="1">FULLSTACK &#8226; DEVOPS &#8226; AI ENGINEER</text>
+
+  <g font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#5b7083" letter-spacing="1">
+    <text x="110" y="235">UTC+7 · JAKARTA</text>
+    <text x="1090" y="235" text-anchor="end">STATUS: OPEN_TO_REMOTE</text>
+  </g>
+</svg>
 
 <div align="center">
 
@@ -389,10 +424,6 @@ Professional Working Proficiency
 <br/>
 
 ---
-
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-</picture>
 
 <div align="center">
 
