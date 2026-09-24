@@ -368,10 +368,6 @@ Professional Working Proficiency
 
 <img src="https://streak-stats.demolab.com/?user=almadhanif&theme=transparent&hide_border=true&background=0f172a&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=94a3b8&dates=475569&stroke=1e293b" width="60%" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=almadhanif&bg_color=0f172a&color=64ffda&line=64ffda&point=e2e8f0&area=true&hide_border=true&area_color=64ffda15&grid_color=1e293b" width="95%" alt="Contribution Graph" />
-
 </div>
 
 <br/>
