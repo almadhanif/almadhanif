@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&multiline=true&width=650&height=55&lines=Building+intelligent+systems+for+the+web;3.5+years+%C2%B7+5+companies+%C2%B7+3+continents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&multiline=true&width=650&height=55&lines=Senior+Fullstack+%26+AI+Engineer+%C2%B7+Tech+Lead;3%2B+years+%C2%B7+6+companies+%C2%B7+US%2C+UK%2C+Singapore+%26+Indonesia)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,11 +31,12 @@
 
 ## 👤 About Me
 
-I build production-grade digital systems across product, platform, and infrastructure layers. Recent work spans AI workflow automation, microservices, and high-volume document intelligence delivered for enterprise clients in Indonesia and the UK.
+Tech Lead and Senior Fullstack Engineer building production AI systems for enterprise clients in the US, UK, Singapore, and Indonesia. I own features from technical spike through privacy review, build, and post-deploy validation, most recently an AI editing assistant on Vertex AI selected through a 315-call evaluation harness.
 
-- Fullstack Developer, DevOps Engineer, and AI Engineer based in Jakarta (UTC+7)
-- 3.5+ years shipping production systems with strong CI/CD and cloud delivery practices
-- Open to international remote collaborations, especially UK and APAC teams
+- Team Lead Senior Fullstack Developer at **Openloop Health** (US telehealth) and Senior Fullstack Developer at **Quill Learn** (Singapore), based in Jakarta (UTC+7)
+- Strengths: RAG pipelines and LLM integration, microservice architecture, and making systems fast under real load: `75%` faster deployments, `40%` faster queries, 4-minute analyses cut to under 2
+- Release gatekeeper for my teams; comfortable working across US and European time zones in English
+- Founder-builder of **[Solvara](https://solvara-tech.com)**: live SaaS products for workforce management, school nutrition logistics, and commodity price forecasting
 - APICTA 2024 Finalist and Silver Medal recipient at Thailand Inventors Day 2023
 
 <br/>
@@ -56,6 +57,7 @@ I build production-grade digital systems across product, platform, and infrastru
 ![Redux](https://img.shields.io/badge/Redux-0f172a?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![React Query](https://img.shields.io/badge/React_Query-0f172a?style=for-the-badge&logo=reactquery&logoColor=FF4154)
 ![Zustand](https://img.shields.io/badge/Zustand-0f172a?style=for-the-badge&logo=react&logoColor=e2e8f0)
+![Tiptap](https://img.shields.io/badge/Tiptap-0f172a?style=for-the-badge&logo=tiptap&logoColor=e2e8f0)
 
 **Backend**
 
@@ -64,16 +66,20 @@ I build production-grade digital systems across product, platform, and infrastru
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-0f172a?style=for-the-badge&logo=bun&logoColor=fbf0df)
 ![Bun](https://img.shields.io/badge/Bun-0f172a?style=for-the-badge&logo=bun&logoColor=fbf0df)
+![tRPC](https://img.shields.io/badge/tRPC-0f172a?style=for-the-badge&logo=trpc&logoColor=398CCB)
 ![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-0f172a?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0f172a?style=for-the-badge&logo=graphql&logoColor=E10098)
 
 **AI / ML**
 
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-0f172a?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--5-0f172a?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-0f172a?style=for-the-badge&logo=googlegemini&logoColor=4285F4)
 ![Ollama](<https://img.shields.io/badge/Ollama_(Offline)-0f172a?style=for-the-badge&logo=ollama&logoColor=white>)
 ![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![RAG](https://img.shields.io/badge/RAG_%C2%B7_Qdrant-0f172a?style=for-the-badge&logo=databricks&logoColor=64FFDA)
+![Forecasting](https://img.shields.io/badge/Prophet_%C2%B7_XGBoost_%C2%B7_FinBERT-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![OCR](https://img.shields.io/badge/OCR_Pipeline-0f172a?style=for-the-badge&logo=googledocs&logoColor=64FFDA)
 ![SSE](https://img.shields.io/badge/SSE_Streaming-0f172a?style=for-the-badge&logo=lightning&logoColor=64FFDA)
 
@@ -83,6 +89,7 @@ I build production-grade digital systems across product, platform, and infrastru
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Timescale](https://img.shields.io/badge/TimescaleDB-0f172a?style=for-the-badge&logo=timescale&logoColor=FDB515)
 
 **DevOps & Cloud**
 
@@ -101,89 +108,232 @@ I build production-grade digital systems across product, platform, and infrastru
 
 ## 🚀 Featured Projects
 
+### 🟢 Live Solvara Products
+
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Certificate Platform
+### 👷 Solvara JAGA
 
-**Client:** NCC Education, Manchester UK 🇬🇧
+**Live:** [jaga.solvara-tech.com](https://jaga.solvara-tech.com) · Workforce management
 
-End-to-end intelligent certificate management with a **12-state workflow engine**, Azure Blob integration, and AI-powered question review via OpenAI GPT-5 with real-time SSE streaming.
+Field-workforce system for outsourcing and security companies. GPS geo-fenced attendance that treats overnight shifts as one shift, per-client work rules, and contract/document expiry alerts.
 
 **📊 Impact**
 
-- `1,000+` monthly requests automated
-- Manual educator review effort significantly reduced
-- Real-time feedback via SSE streaming
+- Anti double check-in enforced at database level
+- Employee PII masked by default, every reveal audit-logged
+- Per-company data isolation, 14-day trial
 
-![SvelteKit](https://img.shields.io/badge/SvelteKit-1e293b?style=flat-square&logo=svelte&logoColor=FF3E00)
-![ElysiaJS](https://img.shields.io/badge/ElysiaJS-1e293b?style=flat-square&logo=bun&logoColor=fbf0df)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--5-1e293b?style=flat-square&logo=openai&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Blob-1e293b?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-1e293b?style=flat-square&logo=prisma&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-1e293b?style=flat-square&logo=mantine&logoColor=339AF0) ![Radix UI](https://img.shields.io/badge/Radix_UI-1e293b?style=flat-square&logo=radixui&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 AI Document Intelligence
+### 🍱 Solvara SIGAP
 
-**Client:** Fortech Indotama, Jakarta 🇮🇩
+**Live:** [sigap.solvara-tech.com](https://sigap.solvara-tech.com) · Multi-tenant SaaS
 
-OCR + batch analysis pipeline with Gemini, OpenAI, and offline Ollama. Enterprise document extraction with zero cloud lock-in and intelligent routing.
+School-meal distribution and nutrition platform (MBG programme). Manages kitchens (SPPG), schools, drivers and nutritionists, with delivery evidence stored in MinIO via presigned URLs.
 
 **📊 Impact**
 
-- `10×` document throughput increase
-- `<2s` median response latency
-- Offline-capable via Ollama fallback
+- 7 role types across foundation, kitchen and school
+- Multi-tenant with organisation-level isolation
+- Regional market-price data feeds menu costing
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=009688)
-![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=4285F4)
-![Ollama](https://img.shields.io/badge/Ollama-1e293b?style=flat-square&logo=ollama&logoColor=white)
+![Next.js 16](https://img.shields.io/badge/Next.js_16-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-1e293b?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1) ![MinIO](https://img.shields.io/badge/MinIO-1e293b?style=flat-square&logo=minio&logoColor=C72E49)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Fortech SuperApp
+### 🌴 Prakira Sawit
 
-**Client:** Fortech Indotama, Jakarta 🇮🇩
+**Live:** [solvara-tech.com/prakira-sawit](https://solvara-tech.com/prakira-sawit) · Price forecasting
 
-Unified 6 enterprise tools into one platform: predictive analytics, AI document analytics, loyalty system, scraping, dashboards, and AI chatbot. Migrated from monolithic Flask to full microservices.
+Next-period palm-oil FFB (TBS) price projection with confidence bands and province-level parity using K-index and actual rendemen, backed by a stateless FastAPI forecasting service.
 
 **📊 Impact**
 
-- `75%` reduction in deployment time
-- `40%` faster PostgreSQL query time
-- `99.9%` MinIO object storage uptime
+- Provincial parity computed, not constants
+- Prophet/ARIMA forecasting with backtesting
+- Attribution-compliant public price data
 
-![Microservices](https://img.shields.io/badge/Microservices-1e293b?style=flat-square&logo=traefikmesh&logoColor=64FFDA)
-![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF)
-![React Query](https://img.shields.io/badge/React_Query-1e293b?style=flat-square&logo=reactquery&logoColor=FF4154)
+![Next.js 16](https://img.shields.io/badge/Next.js_16-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-1e293b?style=flat-square&logo=drizzle&logoColor=C5F74F) ![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=009688) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Solvara Platform &amp; Intelligence
+
+**Live:** [solvara-tech.com](https://solvara-tech.com) · [intelligence.solvara-tech.com](https://intelligence.solvara-tech.com)
+
+Company site plus the shared AI/ML core: an Express API with OCR and RabbitMQ orchestration, and a FastAPI service for forecasting, Gemini document analysis, Playwright scraping, and an automated news-article pipeline. One Caddy reverse proxy serves every app with automatic TLS.
+
+**📊 Impact**
+
+- 3-service architecture: Next.js → Express → FastAPI
+- Async scraping via RabbitMQ workers
+- Single-server multi-app deploy on Docker + Caddy
+
+![Express](https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=009688) ![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=4285F4) ![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED)
+
+</td>
+</tr>
+</table>
+</div>
+
+> 🚧 **Solvara Reserva** (multi-tenant booking funnel builder for clinics and rentals, with Mayar payments) is in active development.
+
+<br/>
+
+### 💼 Enterprise & Client Work
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✨ AI Assist for Funnel Builder
+
+**Client:** Openloop Health, USA 🇺🇸 · 2026
+
+Owned an AI editing assistant (Vertex AI / Gemini) from spike to production: privacy review, 10-ticket scope split, tRPC endpoint, 4 Gemini tool definitions, and a patch engine that safely applies AI-suggested edits to live page content.
+
+**📊 Impact**
+
+- Model chosen on evidence: 21 utterances × 5 variants = 315 calls
+- Shipped in 6 PRs with 100+ new tests
+- Marketers accept, reject or undo edits without touching page structure
+
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-1e293b?style=flat-square&logo=googlecloud&logoColor=4285F4) ![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=4285F4) ![tRPC](https://img.shields.io/badge/tRPC-1e293b?style=flat-square&logo=trpc&logoColor=398CCB) ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 AI Question Reviewer
+
+**Client:** Quill Learn, Singapore 🇸🇬 · 2025–2026
+
+Owned end to end: GPT-5 and GLM review against 8 pedagogical quality indicators with SSE streaming, bulk analysis, and examiner findings triage. Ran the pilot feedback roadmap directly with the awarding body examiner lead through sign-off.
+
+**📊 Impact**
+
+- 40-question analysis: ~4 min → ~1.7 min
+- Import time: ~30s → near-instant
+- Replaced a failing PDF parser with Azure Document Intelligence
+
+![SvelteKit](https://img.shields.io/badge/SvelteKit-1e293b?style=flat-square&logo=svelte&logoColor=FF3E00) ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-1e293b?style=flat-square&logo=bun&logoColor=fbf0df) ![OpenAI GPT-5](https://img.shields.io/badge/OpenAI_GPT-5-1e293b?style=flat-square&logo=openai&logoColor=white) ![Better Auth](https://img.shields.io/badge/Better_Auth-1e293b?style=flat-square&logo=betterauth&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 SCORM 1.2/2004 Runtime Service
+
+**Client:** Quill Learn, Singapore 🇸🇬 · 2026
+
+Standalone, spec-complete SCORM runtime: API adapters, suspend/resume sequencing state, and per-launch origin isolation, so third-party content failures cannot take down the main platform.
+
+**📊 Impact**
+
+- ADL conformance gate enforced in CI
+- Per-launch subdomain origin isolation
+- Real-time learner presence monitor (Redis + SSE)
+
+![Redis](https://img.shields.io/badge/Redis-1e293b?style=flat-square&logo=redis&logoColor=DC382D) ![SSE](https://img.shields.io/badge/SSE-1e293b?style=flat-square&logo=lightning&logoColor=64FFDA) ![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Fortech SuperApp &amp; AI Document Repository
+
+**Client:** Fortech Indotama / PT Krakatau Jasa Industri 🇮🇩 · 2025–2026
+
+Merged six enterprise tools into one platform, migrating a Flask monolith to Next.js, Express and FastAPI microservices, then extended it into a production AI Document Repository with a from-scratch RAG pipeline (semantic chunking, Gemini embeddings, IAM-filtered retrieval on Qdrant, OCR fallback).
+
+**📊 Impact**
+
+- `75%` faster deployments, weekly → daily releases
+- `40%` faster PostgreSQL queries, MinIO at `99.9%` uptime
+- 14 production features shipped in one 30-hour sprint
+
+![Qdrant](https://img.shields.io/badge/Qdrant-1e293b?style=flat-square&logo=qdrant&logoColor=DC244C) ![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=009688) ![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-1e293b?style=flat-square&logo=minio&logoColor=C72E49)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Aluminium Price Prediction
+
+**Client:** Fortech Indotama 🇮🇩 · 2025
+
+Hybrid forecasting system combining Prophet and XGBoost with a FinBERT news-sentiment engine that pushes recalibrated forecasts over WebSocket. Companion HCMS built on Next.js, Prisma and MySQL with an ETL migration pipeline.
+
+**📊 Impact**
+
+- Sentiment-driven recalibration in real time
+- ETL migration, cached reverse-geocoding, rate limiting
+
+![Prophet](https://img.shields.io/badge/Prophet-1e293b?style=flat-square&logo=meta&logoColor=0668E1) ![XGBoost](https://img.shields.io/badge/XGBoost-1e293b?style=flat-square&logo=xgboost&logoColor=white) ![FinBERT](https://img.shields.io/badge/FinBERT-1e293b?style=flat-square&logo=huggingface&logoColor=FFD21E) ![WebSocket](https://img.shields.io/badge/WebSocket-1e293b?style=flat-square&logo=socketdotio&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 SEO Campaign Platform
 
-**Client:** Naturindo Surya Niaga, Yogyakarta 🇮🇩
+**Live:** [umrohnaturindo.com](https://umrohnaturindo.com) · Naturindo Surya Niaga 🇮🇩
 
-High-traffic marketing platform with structured metadata, AWS S3 media storage, and zero-downtime GitHub Actions CI/CD. Led full end-to-end build as project lead.
+High-traffic marketing platform with structured metadata, AWS S3 media storage, and zero-downtime GitHub Actions CI/CD. Led the full end-to-end build as project lead.
 
 **📊 Impact**
 
-- `#1` Google ranking for target keywords
+- `#1` Google ranking for target keywords within weeks
 - Zero-downtime automated deployments
-- AWS S3 for secure receipt & image storage
+- AWS S3 for secure receipt and image storage
 
-![Next.js 14](https://img.shields.io/badge/Next.js_14-1e293b?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6)
-![Prisma](https://img.shields.io/badge/Prisma-1e293b?style=flat-square&logo=prisma&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-1e293b?style=flat-square&logo=amazons3&logoColor=FF9900)
+![Next.js 14](https://img.shields.io/badge/Next.js_14-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-1e293b?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1) ![AWS S3](https://img.shields.io/badge/AWS_S3-1e293b?style=flat-square&logo=amazons3&logoColor=FF9900)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Pelindo LMS
+
+**Client:** KMPlus International 🇮🇩 · 2024–2025
+
+Scaled a Learning Management System to 8,300+ active users with a drag-and-drop course builder (dnd-kit), rich-text editing (Tiptap), and Chart.js dashboards. Set team code-quality standards via ESLint, Prettier and Husky.
+
+**📊 Impact**
+
+- `8,300+` active users supported
+- Faster page loads and shorter review cycles
+
+![Express](https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white) ![Tiptap](https://img.shields.io/badge/Tiptap-1e293b?style=flat-square&logo=tiptap&logoColor=white) ![dnd-kit](https://img.shields.io/badge/dnd-kit-1e293b?style=flat-square&logo=dndkit&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-1e293b?style=flat-square&logo=chartdotjs&logoColor=FF6384)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Whistleblowing System (WBS)
+
+**Client:** Hutama Karya 🇮🇩 · Enterprise compliance
+
+Multi-tenant whistleblowing platform with a Django and Celery backend (scheduled jobs, RSA-signed JWT auth) and a Next.js admin frontend for inquiries, content and rest-area management.
+
+**📊 Impact**
+
+- Multi-tenant management with role-based users
+- Background scheduling via Celery beat
+- Jenkins pipelines for staging and production
+
+![Django](https://img.shields.io/badge/Django-1e293b?style=flat-square&logo=django&logoColor=092E20) ![Celery](https://img.shields.io/badge/Celery-1e293b?style=flat-square&logo=celery&logoColor=37814A) ![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-1e293b?style=flat-square&logo=jenkins&logoColor=D24939)
 
 </td>
 </tr>
@@ -198,24 +348,28 @@ High-traffic marketing platform with structured metadata, AWS S3 media storage, 
 
 ```
 ────────────────────────────────────────────────────────────────────────────────
-  2025–2026  ●  NCC Education — Fullstack Developer                  🇬🇧 Remote
-             │  SvelteKit · ElysiaJS · Bun · OpenAI GPT-5 · Azure Blob
-             │  Delivered ~45–50% of total codebase for cert management platform
-             │
-  2024–2025  ●  Fortech Indotama — Technical Lead              🇮🇩 Jakarta
-             │  Next.js · FastAPI · Express · Docker · GitHub Actions · MinIO
-             │  Built SuperApp consolidating 6 tools; 75% faster deploys
-             │
-  2024–2025  ●  KMPlus International / Pelindo LMS — Fullstack Dev  🇮🇩 Jakarta
-             │  Express.js · dnd-kit · Tiptap · Chart.js
-             │  Scaled LMS platform to 8,300+ active users
-             │
-  2024–2025  ●  Naturindo Surya Niaga — Project Lead & Fullstack    🇮🇩 Jogja
-             │  Next.js 14 · Prisma · AWS S3 · GitHub Actions CI/CD
-             │  #1 Google ranking for target keywords within weeks
-             │
-  2023–2024  ●  AMIKOM Yogyakarta University — Fullstack Developer  🇮🇩 Jogja
-                API development · system architecture · internal training
+  May 2026 – Now      ●  Openloop Health — Team Lead Sr. Fullstack   🇺🇸 Remote
+                      │  Vertex AI · tRPC · Gemini tools · Stripe · Meta CAPI
+                      │  AI Assist (315-call eval), release gatekeeper, 40+ reviews
+                      │
+  Nov 2025 – Now      ●  Quill Learn — Senior Fullstack Developer    🇸🇬 Remote
+                      │  SvelteKit · ElysiaJS · GPT-5 · GLM · Redis · Azure DI
+                      │  AI question reviewer, SCORM runtime, ~45–50% of codebase
+                      │
+  Aug 2025 – Jun 2026 ●  Fortech Indotama — Tech Lead                🇮🇩 Jakarta
+                      │  Next.js · FastAPI · Qdrant · Docker · GitHub Actions
+                      │  SuperApp, RAG repository, 75% faster deploys
+                      │
+  Oct 2024 – Aug 2025 ●  Naturindo Surya Niaga — Project Lead        🇮🇩 Jogja
+                      │  Next.js 14 · Prisma · AWS S3 · GitHub Actions CI/CD
+                      │  #1 Google ranking for target keywords within weeks
+                      │
+  Aug 2024 – Aug 2025 ●  KMPlus International — Fullstack Dev        🇮🇩 Jakarta
+                      │  Express.js · dnd-kit · Tiptap · Chart.js
+                      │  Pelindo LMS scaled to 8,300+ active users
+                      │
+  May 2023 – Jun 2024 ●  AMIKOM Yogyakarta University — Fullstack    🇮🇩 Jogja
+                         API development · system architecture · internal training
 ────────────────────────────────────────────────────────────────────────────────
 ```
 
