@@ -36,7 +36,7 @@ Tech Lead and Senior Fullstack Engineer building production AI systems for enter
 - Team Lead Senior Fullstack Developer at **Openloop Health** (US telehealth) and Senior Fullstack Developer at **Quill Learn** (Singapore), based in Jakarta (UTC+7)
 - Strengths: RAG pipelines and LLM integration, microservice architecture, and making systems fast under real load: `75%` faster deployments, `40%` faster queries, 4-minute analyses cut to under 2
 - Release gatekeeper for my teams; comfortable working across US and European time zones in English
-- Founder-builder of **[Solvara](https://solvara-tech.com)**: live SaaS products for workforce management, school nutrition logistics, and commodity price forecasting
+- Founder-builder of **[Solvara](https://solvara-tech.com)**: five live SaaS products covering booking and online deposits, commercial space leasing, workforce management, school nutrition logistics, and commodity price forecasting, plus the in-house sales, AI and ops tooling that runs them on a single VPS
 - APICTA 2024 Finalist and Silver Medal recipient at Thailand Inventors Day 2023
 
 <br/>
@@ -64,12 +64,15 @@ Tech Lead and Senior Fullstack Engineer building production AI systems for enter
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django_·_DRF-0f172a?style=for-the-badge&logo=django&logoColor=44B78B)
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-0f172a?style=for-the-badge&logo=bun&logoColor=fbf0df)
 ![Bun](https://img.shields.io/badge/Bun-0f172a?style=for-the-badge&logo=bun&logoColor=fbf0df)
 ![tRPC](https://img.shields.io/badge/tRPC-0f172a?style=for-the-badge&logo=trpc&logoColor=398CCB)
 ![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-0f172a?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0f172a?style=for-the-badge&logo=graphql&logoColor=E10098)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0f172a?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![Celery](https://img.shields.io/badge/Celery-0f172a?style=for-the-badge&logo=celery&logoColor=37814A)
 
 **AI / ML**
 
@@ -82,10 +85,12 @@ Tech Lead and Senior Fullstack Engineer building production AI systems for enter
 ![Forecasting](https://img.shields.io/badge/Prophet_%C2%B7_XGBoost_%C2%B7_FinBERT-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![OCR](https://img.shields.io/badge/OCR_Pipeline-0f172a?style=for-the-badge&logo=googledocs&logoColor=64FFDA)
 ![SSE](https://img.shields.io/badge/SSE_Streaming-0f172a?style=for-the-badge&logo=lightning&logoColor=64FFDA)
+![MCP](https://img.shields.io/badge/MCP_Server-0f172a?style=for-the-badge&logo=modelcontextprotocol&logoColor=e2e8f0)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![PostGIS](https://img.shields.io/badge/PostGIS-0f172a?style=for-the-badge&logo=postgresql&logoColor=64FFDA)
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=DC382D)
@@ -99,6 +104,9 @@ Tech Lead and Senior Fullstack Engineer building production AI systems for enter
 ![Azure](https://img.shields.io/badge/Azure_Blob-0f172a?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![MinIO](https://img.shields.io/badge/MinIO-0f172a?style=for-the-badge&logo=minio&logoColor=C72E49)
 ![Nginx](https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=009639)
+![Caddy](https://img.shields.io/badge/Caddy-0f172a?style=for-the-badge&logo=caddy&logoColor=1F88C0)
+![SOPS](https://img.shields.io/badge/SOPS_·_age-0f172a?style=for-the-badge&logo=mozilla&logoColor=e2e8f0)
+![Observability](https://img.shields.io/badge/GlitchTip_·_Umami_·_Uptime_Kuma-0f172a?style=for-the-badge&logo=sentry&logoColor=64FFDA)
 
 </div>
 
@@ -115,6 +123,43 @@ Tech Lead and Senior Fullstack Engineer building production AI systems for enter
 <tr>
 <td width="50%" valign="top">
 
+### 📅 Solvara Reserva
+
+**Live:** [reserva.solvara-tech.com](https://reserva.solvara-tech.com) · Booking SaaS
+
+No-code booking funnel builder for beauty clinics and vehicle rentals. Replaces the long-form → WhatsApp → spreadsheet routine with custom forms, live slot booking, online deposits, a customer portal, and a dashboard with analytics. Rental tenants also get POS invoicing.
+
+**📊 Impact**
+
+- Double booking blocked by a Postgres exclusion constraint per seat
+- Deposits paid straight into each tenant's own Mayar account
+- Public REST API, signed webhooks and an MCP server for AI agents
+- Self-serve signup with a 14-day trial and HMAC-scored trial-abuse detection
+
+![Next.js 16](https://img.shields.io/badge/Next.js_16-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-1e293b?style=flat-square&logo=trpc&logoColor=398CCB) ![Prisma](https://img.shields.io/badge/Prisma-1e293b?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1) ![Mayar](https://img.shields.io/badge/Mayar_Payments-1e293b?style=flat-square&logo=cashapp&logoColor=64FFDA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏬 Solvara Nata
+
+**Live:** [nata.solvara-tech.com](https://nata.solvara-tech.com) · Space leasing
+
+Marketing and leasing platform for tenant units in commercial areas, with interactive site maps, location and unit listings, brochures, and an inquiry flow for prospective tenants. Productised from enterprise rest-area leasing work.
+
+**📊 Impact**
+
+- Per-client terminology, so one codebase fits different industries
+- Regional and area-scoped admin roles with per-record access checks
+- Push to main auto-deploys through GitHub Actions
+
+![Django](https://img.shields.io/badge/Django_·_DRF-1e293b?style=flat-square&logo=django&logoColor=44B78B) ![Celery](https://img.shields.io/badge/Celery-1e293b?style=flat-square&logo=celery&logoColor=37814A) ![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 👷 Solvara JAGA
 
 **Live:** [jaga.solvara-tech.com](https://jaga.solvara-tech.com) · Workforce management
@@ -127,7 +172,7 @@ Field-workforce system for outsourcing and security companies. GPS geo-fenced at
 - Employee PII masked by default, every reveal audit-logged
 - Per-company data isolation, 14-day trial
 
-![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-1e293b?style=flat-square&logo=prisma&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-1e293b?style=flat-square&logo=mantine&logoColor=339AF0) ![Radix UI](https://img.shields.io/badge/Radix_UI-1e293b?style=flat-square&logo=radixui&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-1e293b?style=flat-square&logo=prisma&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-1e293b?style=flat-square&logo=postgresql&logoColor=64FFDA) ![Mantine](https://img.shields.io/badge/Mantine-1e293b?style=flat-square&logo=mantine&logoColor=339AF0)
 
 </td>
 <td width="50%" valign="top">
@@ -172,22 +217,22 @@ Next-period palm-oil FFB (TBS) price projection with confidence bands and provin
 
 **Live:** [solvara-tech.com](https://solvara-tech.com) · [intelligence.solvara-tech.com](https://intelligence.solvara-tech.com)
 
-Company site plus the shared AI/ML core: an Express API with OCR and RabbitMQ orchestration, and a FastAPI service for forecasting, Gemini document analysis, Playwright scraping, and an automated news-article pipeline. One Caddy reverse proxy serves every app with automatic TLS.
+Company site and the shared core behind every product: an Express API, a FastAPI AI service (forecasting, Gemini document analysis, an article pipeline that writes, self-repairs and indexes posts), a Lead Finder that crawls 514 regencies into the sales CRM, and an executive dashboard fed by every app.
 
 **📊 Impact**
 
-- 3-service architecture: Next.js → Express → FastAPI
-- Async scraping via RabbitMQ workers
-- Single-server multi-app deploy on Docker + Caddy
+- Lead Finder workers on RabbitMQ with live SSE progress
+- Errors, uptime, analytics and server load in one view
+- Deploys in ~6s via restricted keys, SOPS-encrypted .env, one-command rollback
 
-![Express](https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=009688) ![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=4285F4) ![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED)
+![Express](https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=009688) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1e293b?style=flat-square&logo=rabbitmq&logoColor=FF6600) ![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=4285F4) ![Caddy](https://img.shields.io/badge/Caddy-1e293b?style=flat-square&logo=caddy&logoColor=1F88C0)
 
 </td>
 </tr>
 </table>
 </div>
 
-> 🚧 **Solvara Reserva** (multi-tenant booking funnel builder for clinics and rentals, with Mayar payments) is in active development.
+> 🖥️ All of the above runs on a single 4 vCPU / 8 GB VPS behind one Caddy proxy with automatic TLS, Cloudflare Turnstile on logins, and self-hosted S3-compatible storage.
 
 <br/>
 
