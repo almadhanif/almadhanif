@@ -9,7 +9,7 @@
   <a href="mailto:almadhanif17@gmail.com"><img src="https://img.shields.io/badge/Email-almadhanif17%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EE5533" alt="Email"></a>
   <a href="https://solvara-tech.com"><img src="https://img.shields.io/badge/Solvara-solvara--tech.com-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=EE5533" alt="Solvara"></a>
   <br/>
-  <img src="https://img.shields.io/badge/IELTS-C1%20·%20Band%207.0-1E3A8A?style=flat-square&labelColor=EE5533" alt="IELTS C1">
+  <img src="https://img.shields.io/badge/IELTS-Band%206.5%20·%20B2-1E3A8A?style=flat-square&labelColor=EE5533" alt="IELTS Band 6.5">
   <img src="https://komarev.com/ghpvc/?username=almadhanif&style=flat-square&color=1E3A8A&label=profile+views" alt="Profile views">
   <a href="https://github.com/almadhanif"><img src="https://img.shields.io/github/followers/almadhanif?style=flat-square&color=1E3A8A&labelColor=EE5533&label=followers" alt="Followers"></a>
 </p>
@@ -119,7 +119,7 @@ Tech Lead and Senior Fullstack Engineer building production AI systems for enter
   <img src="assets/readme/sec-awards-light.webp" width="100%" alt="Awards & certifications">
 </picture></p>
 
-<p><img src="assets/readme/awards.webp" width="100%" alt="APICTA 2024 Finalist, Thailand Inventors Day Silver Medal, Bio Farma × MIT Hacking Medicine Finalist, IdenTIK 2023 4th Place, IdenTIK 2023 5th Place, Hackathon AMICTA 2022 1st Place; certifications: Google for Education Deployment Credential, Google Workspace Deployment Services Technical, IELTS Academic Band 7.0 · C1 Proficient"></p>
+<p><img src="assets/readme/awards.webp" width="100%" alt="APICTA 2024 Finalist, Thailand Inventors Day Silver Medal, Bio Farma × MIT Hacking Medicine Finalist, IdenTIK 2023 4th Place, IdenTIK 2023 5th Place, Hackathon AMICTA 2022 1st Place; certifications: Google for Education Deployment Credential, Google Workspace Deployment Services Technical, IELTS Academic Band 6.5 · B2"></p>
 
 <p><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/readme/sec-stats-dark.webp">
